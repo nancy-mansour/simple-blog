@@ -14,6 +14,8 @@ This is my very first learning project to learn PHP and MySQL
 2. Create a user in MySQL with DML rights on the new database
 3. Edit `global_config.php` and adjust the following values:
 
+| var | description |
+| -- | -- |
 | `$host` | MySQL server host |
 | `$user_name` | MySQL username |
 | `$pw` | MySQL password |
